@@ -23,3 +23,18 @@ If you find this material useful, please star (⭐) the repository. It helps kee
 ---
 
 *This repository is created solely for educational and informational purposes.*
+
+
+### Keywords
+- Sora2
+- AI Model
+- SoraAI
+- Sora2AI
+- SoraAIfree
+- AI Model Setup
+- AI generation
+- Photo generation AI
+- Video generation AI
+- Download Sora2
+- Download AI
+- AI Setup
